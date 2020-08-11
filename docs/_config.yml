@@ -12,10 +12,11 @@ site_title: by Digital Science Center
 company_name: Digital Science Center, Indiana University
 # this appears in the footer
 
-github_editme_path: tomjoht/documentation-theme-jekyll/blob/gh-pages/
+github_editme_path: cybertraining-dsc/course/blob/master/docs/
+# tomjoht/documentation-theme-jekyll/blob/gh-pages/
 # if you're using Github, provide the basepath to the branch you've created for reviews, following the sample here. if not, leave this value blank.
 
-# gitlab_editme_path: tomjoht/documentation-theme-jekyll/blob/gh-pages/
+# gitlab_editme_path: cybertraining-dsc/course/blob/master/docs/
 # if you're using GitLab, provide the basepath to the branch you've created for reviews, following the sample here. if not, leave this value blank.
 
 google_analytics: 

@@ -23,11 +23,11 @@ entries:
   - title: Overview
     output: web, pdf
     folderitems:
-    - title: Introduction
+    - title: Home
       url: /scidatabench_landing_page.html
       output: web
 
-    - title: Links
+    - title: Introduction
       url: /scidatabench_sample1.html
       output: web, pdf
 
@@ -35,6 +35,10 @@ entries:
       url: /scidatabench_sample2.html
       output: web, pdf
 
-    - title: Calendar
+    - title: Links
       url: /scidatabench_sample3.html
+      output: web, pdf
+
+    - title: Calendar
+      url: /scidatabench_sample4.html
       output: web, pdf

@@ -1,5 +1,5 @@
 ---
-title: Sample 4 Topic (Product 1)
+title: Calendar
 keywords: sample
 summary: "This is just a sample topic..."
 sidebar: scidatabench_sidebar

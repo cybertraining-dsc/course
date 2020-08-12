@@ -4,7 +4,7 @@
 entries:
 - title: Sidebar
   product: SciDataBench
-  version: 1.0
+  version: 
   folders:
 
   - title:
@@ -20,41 +20,21 @@ entries:
       output: pdf
       type: frontmatter
 
-  - title: Getting Started
+  - title: Overview
     output: web, pdf
     folderitems:
-    - title: Product 1 home
+    - title: Introduction
       url: /scidatabench_landing_page.html
       output: web
 
-    - title: Sample 1
+    - title: Links
       url: /scidatabench_sample1.html
       output: web, pdf
 
-    - title: Sample 2
+    - title: Deliverables
       url: /scidatabench_sample2.html
       output: web, pdf
 
-    - title: Sample 3
+    - title: Calendar
       url: /scidatabench_sample3.html
-      output: web, pdf
-
-  - title: Another heading
-    output: web, pdf
-
-    folderitems:
-    - title: Sample 4
-      url: /scidatabench_sample4.html
-      output: web, pdf
-
-    - title: Sample 5
-      url: /scidatabench_sample5.html
-      output: web, pdf
-
-    - title: Sample 6
-      url: /scidatabench_sample6.html
-      output: web, pdf
-
-    - title: Sample 7
-      url: /scidatabench_sample7.html
       output: web, pdf

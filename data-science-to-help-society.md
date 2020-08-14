@@ -1,10 +1,15 @@
 # Covid 101, Climate Change and their Technologies
 
-This document is
-[[https://docs.google.com/document/d/1dId7xKRKXVdYwjv9oH5PNiXbIV-O3RhemfaOwIg9Qzo/edit?usp=sharing]](https://docs.google.com/document/d/1dId7xKRKXVdYwjv9oH5PNiXbIV-O3RhemfaOwIg9Qzo/edit?usp=sharing)
+This document is is located at
+
+* <https://github.com/cybertraining-dsc/course/blob/master/data-science-to-help-society.md>
+
+and converted from 
+
+* <https://docs.google.com/document/d/1dId7xKRKXVdYwjv9oH5PNiXbIV-O3RhemfaOwIg9Qzo/edit?usp=sharing>
+
 
 ## General Material
-
 
 ### Python Language
 

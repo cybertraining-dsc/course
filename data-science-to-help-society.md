@@ -17,22 +17,21 @@ Need to add material here
 
 ### Using Google CoLab and Jupyter notebooks
 
--   For questions on software please mail [[Fugang
-    > Wang]](mailto:KevinWangfg@gmail.com)
+-   For questions on software please mail [[Fugang Wang]](mailto:KevinWangfg@gmail.com)
 
     -   Fugang can also give you help on python including introductory
-        > material if you need extra
+        material if you need extra
 
 -   [[https://colab.research.google.com/notebooks/intro.ipynb\#recent=true]](https://colab.research.google.com/notebooks/intro.ipynb#recent=true)
-    > from Google
+    from Google
 
 -   Introduction to Tensorflow [[Introduction to Machine Learning Using
-    > TensorFlow.pptx]](https://drive.google.com/file/d/1Iv_b_WqV2ovPhanh2ab_yhmYgo_VQSxN/view?usp=sharing)
+    TensorFlow.pptx]](https://drive.google.com/file/d/1Iv_b_WqV2ovPhanh2ab_yhmYgo_VQSxN/view?usp=sharing)
 
 -   **Introduction to using Colab** from IU class E534 with videos and
-    > note
-    > [[https://docs.google.com/document/d/1KT3KHgV-jEIfnLSfI772kdKaFdXoiyAGjyLfU1TpzDA/edit?usp=sharing]](https://docs.google.com/document/d/1KT3KHgV-jEIfnLSfI772kdKaFdXoiyAGjyLfU1TpzDA/edit?usp=sharing)
-    > This unit includes 3 videos
+    note
+    [[https://docs.google.com/document/d/1KT3KHgV-jEIfnLSfI772kdKaFdXoiyAGjyLfU1TpzDA/edit?usp=sharing]](https://docs.google.com/document/d/1KT3KHgV-jEIfnLSfI772kdKaFdXoiyAGjyLfU1TpzDA/edit?usp=sharing)
+    This unit includes 3 videos
 
     -   [[how-to-create-a-colab-notebook.mp4]](https://drive.google.com/open?id=17ezxX6PclXX5A5G18JRm69G1FEdzlWpg)
 
@@ -40,8 +39,7 @@ Need to add material here
 
     -   [[how-to-do-benchmark.mp4]](https://drive.google.com/open?id=1usVO36H3pNbpJYTi-YEue-nbOibHnQiY)
 
--   **Deep Learning for MNIST** The docs are located alongside the video
-    > at
+-   **Deep Learning for MNIST** The docs are located alongside the video at
 
     -   [[https://docs.google.com/document/d/1E8orgHbNV6P8STl2lQxov2VHKSYyIISSj-XfsvQlRX4/edit?usp=sharing]](https://docs.google.com/document/d/1E8orgHbNV6P8STl2lQxov2VHKSYyIISSj-XfsvQlRX4/edit?usp=sharing)
 
@@ -56,8 +54,8 @@ Need to add material here
     -   [[dnn-mnist-intro-1.mp4]](https://drive.google.com/open?id=1NQnrWboSI2kc38uTgd3OtFQkK44L5jZP)
 
     -   [[dnn-mnist-import-section-2.mp4]](https://drive.google.com/open?id=165fvbfdrrsUznzyO_ulPyKhn6Xtopgtv)
-        > -Running into import errors starting at the keras.models line
-        > in the code
+        -Running into import errors starting at the keras.models line
+        in the code
 
     -   [[dnn-mnist-data-preprocessing-3.mp4]](https://drive.google.com/open?id=1_K--i9O2QioJ7SVOKgd4NmV71yvSDRcj)
 
@@ -71,13 +69,13 @@ Need to add material here
 **Follow-up on Discussion of AI remaking Industry worldwide**
 
 -   Class on AI First Engineering with 35 videos describing technologies
-    > and particular industries Commerce, Mobility, Banking, Health,
-    > Space, Energy in
-    > detail[[https://www.youtube.com/playlist?list=PLy0VLh_GFyz_znIuyPaaSNteZsCJmw4vt]](https://www.youtube.com/playlist?list=PLy0VLh_GFyz_znIuyPaaSNteZsCJmw4vt)
+    and particular industries Commerce, Mobility, Banking, Health,
+    Space, Energy in
+    detail [[https://www.youtube.com/playlist?list=PLy0VLh_GFyz_znIuyPaaSNteZsCJmw4vt]](https://www.youtube.com/playlist?list=PLy0VLh_GFyz_znIuyPaaSNteZsCJmw4vt)
 
 -   Introductory Video (one of 35) discussing the Transformation -
-    > Industries invented and remade through AI
-    > [[https://www.youtube.com/watch?v=h6U3dcNbc-E&list=PLy0VLh_GFyz_znIuyPaaSNteZsCJmw4vt&index=2&t=6s]](https://www.youtube.com/watch?v=h6U3dcNbc-E&list=PLy0VLh_GFyz_znIuyPaaSNteZsCJmw4vt&index=2&t=6s)
+    Industries invented and remade through AI
+    [[https://www.youtube.com/watch?v=h6U3dcNbc-E&list=PLy0VLh_GFyz_znIuyPaaSNteZsCJmw4vt&index=2&t=6s]](https://www.youtube.com/watch?v=h6U3dcNbc-E&list=PLy0VLh_GFyz_znIuyPaaSNteZsCJmw4vt&index=2&t=6s)
 
 -   Some online videos on deep learning
 
@@ -131,18 +129,18 @@ Infection, Viral Spread and Immune Response and Treatment Regimes**
 ### Topics in Covid 101
 
 -   Biology [\[1\]](https://paperpile.com/c/8FpyOQ/00fb) and Harvard
-    > medical school material above
+    medical school material above
 
 -   Epidemiology [\[2\]](https://paperpile.com/c/8FpyOQ/L0rO)
 
 -   Public Health: Social Distancing and Policies
-    > [\[3\]](https://paperpile.com/c/8FpyOQ/ZiMo)
+    [\[3\]](https://paperpile.com/c/8FpyOQ/ZiMo)
 
 -   HPC [\[4\]](https://paperpile.com/c/8FpyOQ/jgJ1)
 
 -   Data Science [\[5\]](https://paperpile.com/c/8FpyOQ/bLFr)
-    > [\[6\]](https://paperpile.com/c/8FpyOQ/8f6n) and
-    > [\[7\]](https://paperpile.com/c/8FpyOQ/tS2h)
+    [\[6\]](https://paperpile.com/c/8FpyOQ/8f6n) and
+    [\[7\]](https://paperpile.com/c/8FpyOQ/tS2h)
 
 -   Modeling [\[8\]](https://paperpile.com/c/8FpyOQ/UHb9) and
     > [\[9\]](https://paperpile.com/c/8FpyOQ/3p4z)
@@ -154,37 +152,37 @@ Infection, Viral Spread and Immune Response and Treatment Regimes**
 -   This also needs Colab and deep learning background
 
 -   A cursory and easy to understand review of climate issues in terms
-    > of AI: **Tackling Climate Change with Machine Learning**
-    > [[https://arxiv.org/abs/1906.05433]](https://arxiv.org/abs/1906.05433)
+    of AI: **Tackling Climate Change with Machine Learning**
+    [[https://arxiv.org/abs/1906.05433]](https://arxiv.org/abs/1906.05433)
 
 -   For application in extreme weather event prediction, an area where
-    > traditional modelling methods have always struggled:
+    traditional modelling methods have always struggled:
 
     -   Interpretable Deep Learning for Spatial Analysis of Severe
-        > Hailstorms
-        > [[https://journals.ametsoc.org/doi/full/10.1175/MWR-D-18-0316.1]](https://journals.ametsoc.org/doi/full/10.1175/MWR-D-18-0316.1)
+        Hailstorms
+        [[https://journals.ametsoc.org/doi/full/10.1175/MWR-D-18-0316.1]](https://journals.ametsoc.org/doi/full/10.1175/MWR-D-18-0316.1)
 
 -   **AI4ESS Summer School:** Anyone who is interested in using Machine
-    > learning for climate science research I highly recommend you
-    > register for the **Artificial Intelligence for Earth System
-    > Science** summer school & interactive workshops which conveniently
-    > runs June 22^nd^ to 26^th^. Prior Experience with tensorflow/keras
-    > via google co-lab should be all the introductory skill needed to
-    > follow along. Register ASAP.
-    > [[https://www2.cisl.ucar.edu/events/summer-school/ai4ess/2020/artificial-intelligence-earth-system-science-ai4ess-summer-school]](https://www2.cisl.ucar.edu/events/summer-school/ai4ess/2020/artificial-intelligence-earth-system-science-ai4ess-summer-school)
+    learning for climate science research I highly recommend you
+    register for the **Artificial Intelligence for Earth System
+    Science** summer school & interactive workshops which conveniently
+    runs June 22^nd^ to 26^th^. Prior Experience with tensorflow/keras
+    via google co-lab should be all the introductory skill needed to
+    follow along. Register ASAP.
+    [[https://www2.cisl.ucar.edu/events/summer-school/ai4ess/2020/artificial-intelligence-earth-system-science-ai4ess-summer-school]](https://www2.cisl.ucar.edu/events/summer-school/ai4ess/2020/artificial-intelligence-earth-system-science-ai4ess-summer-school)
 
 -   Kaggle Climate Change [[Climate Change Forecast - SARIMA
-    > Model]](https://www.kaggle.com/leandrovrabelo/climate-change-forecast-sarima-model)
-    > with classic time series methods
+    Model]](https://www.kaggle.com/leandrovrabelo/climate-change-forecast-sarima-model)
+    with classic time series methods
 
 -   Plotting satellite data
-    > [[Plotting_Satellite_Data_collab.ipynb]](https://drive.google.com/file/d/19rFug7X2zL2nMVLlV0ls2lZlRVgQPKc3/view?usp=sharing)
+    [[Plotting_Satellite_Data_collab.ipynb]](https://drive.google.com/file/d/19rFug7X2zL2nMVLlV0ls2lZlRVgQPKc3/view?usp=sharing)
 
 -   Accessing UCAR data [[Accessing data on UCAR TDS
-    > 6112020.docx]](https://drive.google.com/file/d/15pdXCIBeR4BHW81HusB2qsk3cpzxTsEN/view?usp=sharing)
+    6112020.docx]](https://drive.google.com/file/d/15pdXCIBeR4BHW81HusB2qsk3cpzxTsEN/view?usp=sharing)
 
 -   Hydrology with LSTM's [[RNN for
-    > Hydrology]](https://drive.google.com/drive/folders/1tiMjjTbYZGVkj6s71m-2QvQ_rgt-akf_?usp=sharing)
+    Hydrology]](https://drive.google.com/drive/folders/1tiMjjTbYZGVkj6s71m-2QvQ_rgt-akf_?usp=sharing)
 
 ## References
 

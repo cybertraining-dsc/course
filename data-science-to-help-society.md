@@ -128,22 +128,19 @@ Infection, Viral Spread and Immune Response and Treatment Regimes](https://compu
 
 ### Topics in Covid 101
 
--   Biology [\[1\]](https://paperpile.com/c/8FpyOQ/00fb) and Harvard
+-   Biology [~1] and Harvard
     medical school material above
 
--   Epidemiology [\[2\]](https://paperpile.com/c/8FpyOQ/L0rO)
+-   Epidemiology [^2]
 
 -   Public Health: Social Distancing and Policies
-    [\[3\]](https://paperpile.com/c/8FpyOQ/ZiMo)
+    [^3]
 
--   HPC [\[4\]](https://paperpile.com/c/8FpyOQ/jgJ1)
+-   HPC [^4](https://paperpile.com/c/8FpyOQ/jgJ1)
 
--   Data Science [\[5\]](https://paperpile.com/c/8FpyOQ/bLFr)
-    [\[6\]](https://paperpile.com/c/8FpyOQ/8f6n) and
-    [\[7\]](https://paperpile.com/c/8FpyOQ/tS2h)
+-   Data Science [^5], [^6], and [^7]
 
--   Modeling [\[8\]](https://paperpile.com/c/8FpyOQ/UHb9) and
-    [\[9\]](https://paperpile.com/c/8FpyOQ/3p4z)
+-   Modeling [^8] and [^9]
 
 ## Climate Change Material
 
@@ -186,49 +183,49 @@ Infection, Viral Spread and Immune Response and Treatment Regimes](https://compu
 
 ## References
 
-1. [Y. M. Bar-On, A. I. Flamholz, R. Phillips, and R. Milo,
+[^1]: [Y. M. Bar-On, A. I. Flamholz, R. Phillips, and R. Milo,
 "SARS-CoV-2 (COVID-19) by the numbers," *arXiv \[q-bio.OT\]*,
 28-Mar-2020](http://paperpile.com/b/8FpyOQ/00fb)
 <http://arxiv.org/abs/2003.12886>
 
-2. [Jiangzhuo Chen, Simon Levin, Stephen Eubank, Henning Mortveit,
+[^2]: [Jiangzhuo Chen, Simon Levin, Stephen Eubank, Henning Mortveit,
 Srinivasan Venkatramanan, Anil Vullikanti, and Madhav Marathe,
 "Networked Epidemiology for COVID-19," *Siam News*, vol. 53, no. 05,
 Jun. 2020](http://paperpile.com/b/8FpyOQ/L0rO)
 <https://sinews.siam.org/Details-Page/networked-epidemiology-for-covid-19>
 
-3. [A. Adiga, L. Wang, A. Sadilek, A. Tendulkar, S. Venkatramanan, A.
+[^3]: [A. Adiga, L. Wang, A. Sadilek, A. Tendulkar, S. Venkatramanan, A.
 Vullikanti, G. Aggarwal, A. Talekar, X. Ben, J. Chen, B. Lewis, S.
 Swarup, M. Tambe, and M. Marathe, "Interplay of global multi-scale human
 mobility, social distancing, government interventions, and COVID-19
 dynamics," *medRxiv - Public and Global Health*, 07-Jun-2020](http://paperpile.com/b/8FpyOQ/ZiMo)
 <http://dx.doi.org/10.1101/2020.06.05.20123760>
 
-4. [D. Machi, P. Bhattacharya, S. Hoops, J. Chen, H. Mortveit, S.
+[^4]: [D. Machi, P. Bhattacharya, S. Hoops, J. Chen, H. Mortveit, S.
 Venkatramanan, B. Lewis, M. Wilson, A. Fadikar, T. Maiden, C. L.
 Barrett, and M. V. Marathe, "Scalable Epidemiological Workflows to
 Support COVID-19 Planning and Response," May
 2020.](http://paperpile.com/b/8FpyOQ/jgJ1)
 
-5. [Luca Magri and Nguyen Anh Khoa Doan, "First-principles Machine
+[^5]: [Luca Magri and Nguyen Anh Khoa Doan, "First-principles Machine
 Learning for COVID-19 Modeling," *Siam News*, vol. 53, no. 5, Jun. 2020](http://paperpile.com/b/8FpyOQ/bLFr)
 <https://sinews.siam.org/Details-Page/first-principles-machine-learning-for-covid-19-modeling>
 
-6. [Robert Marsland and Pankaj Mehta, "Data-driven modeling reveals a
+[^6]: [Robert Marsland and Pankaj Mehta, "Data-driven modeling reveals a
 universal dynamic underlying the COVID-19 pandemic under social
 distancing," *arXiv \[q-bio.PE\]*, 21-Apr-2020](http://paperpile.com/b/8FpyOQ/8f6n)
 <http://arxiv.org/abs/2004.10666>
 
-7. [Geoffrey Fox, "Deep Learning Based Time Evolution."](http://paperpile.com/b/8FpyOQ/tS2h)
+[^7]: [Geoffrey Fox, "Deep Learning Based Time Evolution."](http://paperpile.com/b/8FpyOQ/tS2h)
 <http://dsc.soic.indiana.edu/publications/Summary-DeepLearningBasedTimeEvolution.pdf>
 
-8. [T. J. Sego, J. O. Aponte-Serrano, J. F. Gianlupi, S. Heaps, K.
+[^8]: [T. J. Sego, J. O. Aponte-Serrano, J. F. Gianlupi, S. Heaps, K.
 Breithaupt, L. Brusch, J. M. Osborne, E. M. Quardokus, and J. A.
 Glazier, "A Modular Framework for Multiscale Spatial Modeling of Viral
 Infection and Immune Response in Epithelial Tissue," *BioRxiv*, 2020](http://paperpile.com/b/8FpyOQ/UHb9)
 <https://www.biorxiv.org/content/10.1101/2020.04.27.064139v2.abstract>
 
-9. [Yafei Wang, Gary An, Andrew Becker, Chase Cockrell, Nicholson
+[^9]: [Yafei Wang, Gary An, Andrew Becker, Chase Cockrell, Nicholson
 Collier, Morgan Craig, Courtney L. Davis, James Faeder, Ashlee N. Ford
 Versypt, Juliano F. Gianlupi, James A. Glazier, Randy Heiland, Thomas
 Hillen, Mohammad Aminul Islam, Adrianne Jenner, Bing Liu, Penelope A

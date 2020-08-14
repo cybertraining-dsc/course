@@ -131,16 +131,16 @@ Infection, Viral Spread and Immune Response and Treatment Regimes](https://compu
 -   Biology [[R1]](#R1) and Harvard
     medical school material above
 
--   Epidemiology [^2]
+-   Epidemiology [[R2]](#R2)
 
 -   Public Health: Social Distancing and Policies
-    [^3]
+    [[R3]](#R3)
 
--   HPC [^4](https://paperpile.com/c/8FpyOQ/jgJ1)
+-   HPC [[R4]](#R4)
 
--   Data Science [^5], [^6], and [^7]
+-   Data Science [[R5]](#R5), [[R6]](#R6), and [[R7]](#R7)
 
--   Modeling [^8] and [^9]
+-   Modeling [[R8]](#R8) and [[R9]](#R9)
 
 ## Climate Change Material
 
@@ -188,44 +188,44 @@ Infection, Viral Spread and Immune Response and Treatment Regimes](https://compu
 28-Mar-2020](http://paperpile.com/b/8FpyOQ/00fb)
 <http://arxiv.org/abs/2003.12886>
 
-[^2]: [Jiangzhuo Chen, Simon Levin, Stephen Eubank, Henning Mortveit,
+<a name="R2">[R2]</a>: [Jiangzhuo Chen, Simon Levin, Stephen Eubank, Henning Mortveit,
 Srinivasan Venkatramanan, Anil Vullikanti, and Madhav Marathe,
 "Networked Epidemiology for COVID-19," *Siam News*, vol. 53, no. 05,
 Jun. 2020](http://paperpile.com/b/8FpyOQ/L0rO)
 <https://sinews.siam.org/Details-Page/networked-epidemiology-for-covid-19>
 
-[^3]: [A. Adiga, L. Wang, A. Sadilek, A. Tendulkar, S. Venkatramanan, A.
+<a name="R3">[R3]</a>: [A. Adiga, L. Wang, A. Sadilek, A. Tendulkar, S. Venkatramanan, A.
 Vullikanti, G. Aggarwal, A. Talekar, X. Ben, J. Chen, B. Lewis, S.
 Swarup, M. Tambe, and M. Marathe, "Interplay of global multi-scale human
 mobility, social distancing, government interventions, and COVID-19
 dynamics," *medRxiv - Public and Global Health*, 07-Jun-2020](http://paperpile.com/b/8FpyOQ/ZiMo)
 <http://dx.doi.org/10.1101/2020.06.05.20123760>
 
-[^4]: [D. Machi, P. Bhattacharya, S. Hoops, J. Chen, H. Mortveit, S.
+<a name="R4">[R4]</a>: [D. Machi, P. Bhattacharya, S. Hoops, J. Chen, H. Mortveit, S.
 Venkatramanan, B. Lewis, M. Wilson, A. Fadikar, T. Maiden, C. L.
 Barrett, and M. V. Marathe, "Scalable Epidemiological Workflows to
 Support COVID-19 Planning and Response," May
 2020.](http://paperpile.com/b/8FpyOQ/jgJ1)
 
-[^5]: [Luca Magri and Nguyen Anh Khoa Doan, "First-principles Machine
+<a name="R5">[R5]</a>: [Luca Magri and Nguyen Anh Khoa Doan, "First-principles Machine
 Learning for COVID-19 Modeling," *Siam News*, vol. 53, no. 5, Jun. 2020](http://paperpile.com/b/8FpyOQ/bLFr)
 <https://sinews.siam.org/Details-Page/first-principles-machine-learning-for-covid-19-modeling>
 
-[^6]: [Robert Marsland and Pankaj Mehta, "Data-driven modeling reveals a
+<a name="R6">[R6]</a>: [Robert Marsland and Pankaj Mehta, "Data-driven modeling reveals a
 universal dynamic underlying the COVID-19 pandemic under social
 distancing," *arXiv \[q-bio.PE\]*, 21-Apr-2020](http://paperpile.com/b/8FpyOQ/8f6n)
 <http://arxiv.org/abs/2004.10666>
 
-[^7]: [Geoffrey Fox, "Deep Learning Based Time Evolution."](http://paperpile.com/b/8FpyOQ/tS2h)
+<a name="R7">[R7]</a>: [Geoffrey Fox, "Deep Learning Based Time Evolution."](http://paperpile.com/b/8FpyOQ/tS2h)
 <http://dsc.soic.indiana.edu/publications/Summary-DeepLearningBasedTimeEvolution.pdf>
 
-[^8]: [T. J. Sego, J. O. Aponte-Serrano, J. F. Gianlupi, S. Heaps, K.
+<a name="R8">[R8]</a>: [T. J. Sego, J. O. Aponte-Serrano, J. F. Gianlupi, S. Heaps, K.
 Breithaupt, L. Brusch, J. M. Osborne, E. M. Quardokus, and J. A.
 Glazier, "A Modular Framework for Multiscale Spatial Modeling of Viral
 Infection and Immune Response in Epithelial Tissue," *BioRxiv*, 2020](http://paperpile.com/b/8FpyOQ/UHb9)
 <https://www.biorxiv.org/content/10.1101/2020.04.27.064139v2.abstract>
 
-[^9]: [Yafei Wang, Gary An, Andrew Becker, Chase Cockrell, Nicholson
+<a name="R9">[R9]</a>: [Yafei Wang, Gary An, Andrew Becker, Chase Cockrell, Nicholson
 Collier, Morgan Craig, Courtney L. Davis, James Faeder, Ashlee N. Ford
 Versypt, Juliano F. Gianlupi, James A. Glazier, Randy Heiland, Thomas
 Hillen, Mohammad Aminul Islam, Adrianne Jenner, Bing Liu, Penelope A

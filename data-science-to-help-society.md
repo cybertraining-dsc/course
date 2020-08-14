@@ -62,8 +62,8 @@ Need to add material here
 
     -   [DNN MNIST final, Part 5 (mp4)](https://drive.google.com/open?id=1PTgID_ZRirgJXszLQJZzt03Fo0gtWWm4)
 
--   Jupyter notebook on Google Colab for **COVID-19 data analysis**
-    <https://github.com/cloudmesh/cloudmesh-timeseries/blob/master/notebook/cybertraining-reu/REU_Covid.ipynb>
+-   [Jupyter notebook on Google Colab for **COVID-19 data analysis**]
+    (https://github.com/cloudmesh/cloudmesh-timeseries/blob/master/notebook/cybertraining-reu/REU_Covid.ipynb)
 
 **Follow-up on Discussion of AI remaking Industry worldwide**
 
@@ -143,7 +143,7 @@ Infection, Viral Spread and Immune Response and Treatment Regimes](https://compu
     [\[7\]](https://paperpile.com/c/8FpyOQ/tS2h)
 
 -   Modeling [\[8\]](https://paperpile.com/c/8FpyOQ/UHb9) and
-    > [\[9\]](https://paperpile.com/c/8FpyOQ/3p4z)
+    [\[9\]](https://paperpile.com/c/8FpyOQ/3p4z)
 
 ## Climate Change Material
 
@@ -220,7 +220,7 @@ distancing," *arXiv \[q-bio.PE\]*, 21-Apr-2020](http://paperpile.com/b/8FpyOQ/8f
 <http://arxiv.org/abs/2004.10666>
 
 7. [Geoffrey Fox, "Deep Learning Based Time Evolution."](http://paperpile.com/b/8FpyOQ/tS2h)
-<http://dsc.soic.indiana.edu/publications/Summary-DeepLearningBasedTimeEvolution.pdf
+<http://dsc.soic.indiana.edu/publications/Summary-DeepLearningBasedTimeEvolution.pdf>
 
 8. [T. J. Sego, J. O. Aponte-Serrano, J. F. Gianlupi, S. Heaps, K.
 Breithaupt, L. Brusch, J. M. Osborne, E. M. Quardokus, and J. A.

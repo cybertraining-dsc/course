@@ -78,20 +78,15 @@ Need to add material here
 
 - Some online videos on deep learning
 
-  Introduction to AI First Engineering                         
-  <https://www.youtube.com/watch?v=h6U3dcNbc-E&list=PLy0VLh_GFyz_znIuyPaaSNteZsCJmw4vt&index=2>
+  * [Introduction to AI First Engineering](https://www.youtube.com/watch?v=h6U3dcNbc-E&list=PLy0VLh_GFyz_znIuyPaaSNteZsCJmw4vt&index=2)
   
-  Examples of Applications of Deep Learning                    
-  <https://www.youtube.com/watch?v=vL2JvfM-SSk&list=PLy0VLh_GFyz_znIuyPaaSNteZsCJmw4vt&index=4>
+  * [Examples of Applications of Deep Learning](https://www.youtube.com/watch?v=vL2JvfM-SSk&list=PLy0VLh_GFyz_znIuyPaaSNteZsCJmw4vt&index=4)
   
-  Optimization -- a key in Statistics, AI and Deep Learning   
-  <https://www.youtube.com/watch?v=qJBMrochMok&list=PLy0VLh_GFyz_znIuyPaaSNteZsCJmw4vt&index=3>
+  [Optimization -- a key in Statistics, AI and Deep Learning](https://www.youtube.com/watch?v=qJBMrochMok&list=PLy0VLh_GFyz_znIuyPaaSNteZsCJmw4vt&index=3)
   
-  Learn the Deep Learning important words and parts            
-  <https://www.youtube.com/watch?v=edOmZOA9E7k&list=PLy0VLh_GFyz_znIuyPaaSNteZsCJmw4vt&index=5>
+  * [Learn the Deep Learning important words and parts](https://www.youtube.com/watch?v=edOmZOA9E7k&list=PLy0VLh_GFyz_znIuyPaaSNteZsCJmw4vt&index=5)
   
-  Deep Learning and Imaging: It\'s first great success         
-  <https://www.youtube.com/watch?v=92as3CXolHo&list=PLy0VLh_GFyz_NPBf-rWkZiResTC2LvxU7&index=6>
+  * [Deep Learning and Imaging: It\'s first great success](https://www.youtube.com/watch?v=92as3CXolHo&list=PLy0VLh_GFyz_NPBf-rWkZiResTC2LvxU7&index=6)
   
 
 ## Covid Material

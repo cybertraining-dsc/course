@@ -82,7 +82,7 @@ Need to add material here
   
   * [Examples of Applications of Deep Learning](https://www.youtube.com/watch?v=vL2JvfM-SSk&list=PLy0VLh_GFyz_znIuyPaaSNteZsCJmw4vt&index=4)
   
-  [Optimization -- a key in Statistics, AI and Deep Learning](https://www.youtube.com/watch?v=qJBMrochMok&list=PLy0VLh_GFyz_znIuyPaaSNteZsCJmw4vt&index=3)
+  * [Optimization -- a key in Statistics, AI and Deep Learning](https://www.youtube.com/watch?v=qJBMrochMok&list=PLy0VLh_GFyz_znIuyPaaSNteZsCJmw4vt&index=3)
   
   * [Learn the Deep Learning important words and parts](https://www.youtube.com/watch?v=edOmZOA9E7k&list=PLy0VLh_GFyz_znIuyPaaSNteZsCJmw4vt&index=5)
   

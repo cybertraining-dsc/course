@@ -128,7 +128,7 @@ Infection, Viral Spread and Immune Response and Treatment Regimes](https://compu
 
 ### Topics in Covid 101
 
--   Biology [~1] and Harvard
+-   Biology [[R1]](#R1) and Harvard
     medical school material above
 
 -   Epidemiology [^2]
@@ -183,7 +183,7 @@ Infection, Viral Spread and Immune Response and Treatment Regimes](https://compu
 
 ## References
 
-[^1]: [Y. M. Bar-On, A. I. Flamholz, R. Phillips, and R. Milo,
+<a name="R1">[R1]</a> : [Y. M. Bar-On, A. I. Flamholz, R. Phillips, and R. Milo,
 "SARS-CoV-2 (COVID-19) by the numbers," *arXiv \[q-bio.OT\]*,
 28-Mar-2020](http://paperpile.com/b/8FpyOQ/00fb)
 <http://arxiv.org/abs/2003.12886>
